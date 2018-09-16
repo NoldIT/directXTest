@@ -45,6 +45,9 @@
     <ClInclude Include="SystemClass.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
+    <ClInclude Include="CameraClass.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
@@ -69,6 +72,9 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="SystemClass.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="CameraClass.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
